@@ -1,4 +1,6 @@
 module.exports = {
+  name: 'Abba',
+  description: 'Let\'s pretend this one is not a rehash of the last one.',
   myAnswer: /^((?!(.)(.)\3\2).)*$/,
   score: 190,
   shouldMatch: [

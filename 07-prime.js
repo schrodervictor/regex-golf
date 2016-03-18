@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'Prime',
+  description: 'The length is not part of the string. I should probably ' +
+    'have chosen a different color.'
   myAnswer: /^(?!(x{2,3}|x{5})\1+$)/,
   score: 278,
   shouldMatch: [,

@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'Backrefs',
+  description: 'This doesn\'t really work as a tutorial. Not really clear ' +
+    'what you\'re supposed to do here.',
   myAnswer: /(...).*\1/,
   score: 201,
   shouldMatch: [

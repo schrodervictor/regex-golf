@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'Anchors',
+  description: 'You are deducted one point per character you use, and ten ' +
+    'if you match something you shouldn\'t',
   myAnswer: /k$/,
   score: 208,
   shouldMatch: [

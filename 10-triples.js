@@ -1,4 +1,6 @@
 module.exports = {
+  name: 'Triples',
+  description: 'Multiples of 7 are left as an exercise for the reader.',
   myAnswer: /^(368542278|443512431|([0369]|[147][0369]*([147][0369]*[147]|[258])|[258][0369]*[147]|([147][0369]*[147]|[258])[0369]*([147][0369]*[147]|[258])[0369]*([147][0369]*[147]|[258]))*)$/,
   score: 451,
   shouldMatch: [

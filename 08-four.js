@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'Four',
+  description: 'You can get an extra point by ignoring the name of this ' +
+    'level.',
   myAnswer: /(.).\1...\1/,
   score: 199,
   shouldMatch: [

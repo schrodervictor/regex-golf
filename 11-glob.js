@@ -1,4 +1,6 @@
 module.exports = {
+  name: 'Glob',
+  description: '',
   myAnswer: /([rs]m|ness|[^mn]al|de|[rs]y|[st]ly|bia|d|ction|rk|c|ke|er|hwise)$/,
   score: 354,
   shouldMatch: [

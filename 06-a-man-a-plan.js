@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'A man, a plan',
+  description: 'You\'re allowed to cheat a little. Even in hard mode, ' +
+    'words will be no longer than 13 characters.',
   myAnswer: /^(.)(.).*\2\1$/,
   score: 176,
   shouldMatch: [

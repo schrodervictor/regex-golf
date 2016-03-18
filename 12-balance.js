@@ -1,4 +1,7 @@
 module.exports = {
+  name: 'Balance',
+  description: 'This one is also impossible, but there\'s a finite number ' +
+    'of test cases',
   myAnswer: /.{37}|^(<>|<<>>)*$|^(?!<{0,2}>|(<{5}(>{5}|>>><>>>))).*[^<]{2}$/,
   score: 418,
   shouldMatch: [
