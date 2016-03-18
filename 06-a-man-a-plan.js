@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /^(.)(.).*\2\1$/,
+  score: 176,
   shouldMatch: [
     'civic',
     'deedeed',

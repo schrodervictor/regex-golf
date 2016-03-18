@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /(.).\1...\1/,
+  score: 199,
   shouldMatch: [
     'Makaraka',
     'Wasagara',

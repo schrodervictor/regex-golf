@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /^(?!(x{2,3}|x{5})\1+$)/,
+  score: 278,
   shouldMatch: [,
      'xx',
      'xxx',

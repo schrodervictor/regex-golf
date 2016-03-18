@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /^[a-f]+$/,
+  score: 202,
   shouldMatch: [
     'abac',
     'accede',

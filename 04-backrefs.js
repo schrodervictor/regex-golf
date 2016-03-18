@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /(...).*\1/,
+  score: 201,
   shouldMatch: [
     'allochirally',
     'anticovenanting',

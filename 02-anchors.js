@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /k$/,
+  score: 208,
   shouldMatch: [
     'Mick',
     'Rick',

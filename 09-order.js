@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /^[^o].{1,5}$/,
+  score: 198,
   shouldMatch: [
     'access',
     'accloy',

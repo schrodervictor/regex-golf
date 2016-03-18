@@ -1,5 +1,6 @@
 module.exports = {
   myAnswer: /^((?!(.)(.)\3\2).)*$/,
+  score: 190,
   shouldMatch: [
     'acritan',
     'aesthophysiology',
